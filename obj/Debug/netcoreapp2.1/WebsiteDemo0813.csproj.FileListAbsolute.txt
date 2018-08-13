@@ -1,0 +1,14 @@
+D:\VSCode\WebsiteDemo0813\bin\Debug\netcoreapp2.1\WebsiteDemo0813.deps.json
+D:\VSCode\WebsiteDemo0813\bin\Debug\netcoreapp2.1\WebsiteDemo0813.runtimeconfig.json
+D:\VSCode\WebsiteDemo0813\bin\Debug\netcoreapp2.1\WebsiteDemo0813.runtimeconfig.dev.json
+D:\VSCode\WebsiteDemo0813\bin\Debug\netcoreapp2.1\WebsiteDemo0813.dll
+D:\VSCode\WebsiteDemo0813\bin\Debug\netcoreapp2.1\WebsiteDemo0813.pdb
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.csprojAssemblyReference.cache
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.csproj.CoreCompileInputs.cache
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.RazorAssemblyInfo.cache
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.RazorAssemblyInfo.cs
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.AssemblyInfoInputs.cache
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.AssemblyInfo.cs
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.RazorTargetAssemblyInfo.cache
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.dll
+D:\VSCode\WebsiteDemo0813\obj\Debug\netcoreapp2.1\WebsiteDemo0813.pdb
